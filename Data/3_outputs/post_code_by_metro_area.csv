@@ -1,0 +1,1220 @@
+,POA_CODE_2021,SA3_CODE_2021,SA3_NAME_2021,GCCSA_NAME_2021,METRO_AREA
+0,0800,70101,Darwin City,Greater Darwin,Greater Darwin
+1,0810,70102,Darwin Suburbs,Greater Darwin,Greater Darwin
+2,0812,70102,Darwin Suburbs,Greater Darwin,Greater Darwin
+3,0820,70101,Darwin City,Greater Darwin,Greater Darwin
+4,0822,70102,Darwin Suburbs,Greater Darwin,Greater Darwin
+5,0828,70102,Darwin Suburbs,Greater Darwin,Greater Darwin
+6,0829,70103,Litchfield,Greater Darwin,Greater Darwin
+7,0830,70103,Litchfield,Greater Darwin,Greater Darwin
+8,0832,70103,Litchfield,Greater Darwin,Greater Darwin
+9,0834,70103,Litchfield,Greater Darwin,Greater Darwin
+10,0835,70103,Litchfield,Greater Darwin,Greater Darwin
+11,0836,70103,Litchfield,Greater Darwin,Greater Darwin
+12,0837,70103,Litchfield,Greater Darwin,Greater Darwin
+13,0838,70103,Litchfield,Greater Darwin,Greater Darwin
+14,0839,70103,Litchfield,Greater Darwin,Greater Darwin
+15,0841,70103,Litchfield,Greater Darwin,Greater Darwin
+16,2000,11703,Sydney Inner City,Greater Sydney,Greater Sydney
+17,2007,11703,Sydney Inner City,Greater Sydney,Greater Sydney
+18,2008,11703,Sydney Inner City,Greater Sydney,Greater Sydney
+19,2009,11703,Sydney Inner City,Greater Sydney,Greater Sydney
+20,2010,11703,Sydney Inner City,Greater Sydney,Greater Sydney
+21,2011,11703,Sydney Inner City,Greater Sydney,Greater Sydney
+22,2015,11703,Sydney Inner City,Greater Sydney,Greater Sydney
+23,2016,11703,Sydney Inner City,Greater Sydney,Greater Sydney
+24,2017,11703,Sydney Inner City,Greater Sydney,Greater Sydney
+25,2018,11701,Botany,Greater Sydney,Greater Sydney
+26,2019,11701,Botany,Greater Sydney,Greater Sydney
+27,2020,11701,Botany,Greater Sydney,Greater Sydney
+28,2021,11801,Eastern Suburbs - North,Greater Sydney,Greater Sydney
+29,2022,11801,Eastern Suburbs - North,Greater Sydney,Greater Sydney
+30,2023,11801,Eastern Suburbs - North,Greater Sydney,Greater Sydney
+31,2024,11801,Eastern Suburbs - North,Greater Sydney,Greater Sydney
+32,2025,11801,Eastern Suburbs - North,Greater Sydney,Greater Sydney
+33,2026,11801,Eastern Suburbs - North,Greater Sydney,Greater Sydney
+34,2027,11801,Eastern Suburbs - North,Greater Sydney,Greater Sydney
+35,2028,11801,Eastern Suburbs - North,Greater Sydney,Greater Sydney
+36,2029,11801,Eastern Suburbs - North,Greater Sydney,Greater Sydney
+37,2030,11801,Eastern Suburbs - North,Greater Sydney,Greater Sydney
+38,2031,11802,Eastern Suburbs - South,Greater Sydney,Greater Sydney
+39,2032,11701,Botany,Greater Sydney,Greater Sydney
+40,2033,11802,Eastern Suburbs - South,Greater Sydney,Greater Sydney
+41,2034,11802,Eastern Suburbs - South,Greater Sydney,Greater Sydney
+42,2035,11701,Botany,Greater Sydney,Greater Sydney
+43,2036,11701,Botany,Greater Sydney,Greater Sydney
+44,2037,11703,Sydney Inner City,Greater Sydney,Greater Sydney
+45,2038,11703,Sydney Inner City,Greater Sydney,Greater Sydney
+46,2039,12002,Leichhardt,Greater Sydney,Greater Sydney
+47,2040,12002,Leichhardt,Greater Sydney,Greater Sydney
+48,2041,11703,Sydney Inner City,Greater Sydney,Greater Sydney
+49,2042,11702,Marrickville - Sydenham - Petersham,Greater Sydney,Greater Sydney
+50,2043,11703,Sydney Inner City,Greater Sydney,Greater Sydney
+51,2044,11702,Marrickville - Sydenham - Petersham,Greater Sydney,Greater Sydney
+52,2045,12003,Strathfield - Burwood - Ashfield,Greater Sydney,Greater Sydney
+53,2046,12001,Canada Bay,Greater Sydney,Greater Sydney
+54,2047,12001,Canada Bay,Greater Sydney,Greater Sydney
+55,2048,11702,Marrickville - Sydenham - Petersham,Greater Sydney,Greater Sydney
+56,2049,11702,Marrickville - Sydenham - Petersham,Greater Sydney,Greater Sydney
+57,2050,11702,Marrickville - Sydenham - Petersham,Greater Sydney,Greater Sydney
+58,2060,12104,North Sydney - Mosman,Greater Sydney,Greater Sydney
+59,2061,12104,North Sydney - Mosman,Greater Sydney,Greater Sydney
+60,2062,12101,Chatswood - Lane Cove,Greater Sydney,Greater Sydney
+61,2063,12101,Chatswood - Lane Cove,Greater Sydney,Greater Sydney
+62,2064,12101,Chatswood - Lane Cove,Greater Sydney,Greater Sydney
+63,2065,12101,Chatswood - Lane Cove,Greater Sydney,Greater Sydney
+64,2066,12101,Chatswood - Lane Cove,Greater Sydney,Greater Sydney
+65,2067,12101,Chatswood - Lane Cove,Greater Sydney,Greater Sydney
+66,2068,12101,Chatswood - Lane Cove,Greater Sydney,Greater Sydney
+67,2069,12101,Chatswood - Lane Cove,Greater Sydney,Greater Sydney
+68,2070,12103,Ku-ring-gai,Greater Sydney,Greater Sydney
+69,2071,12103,Ku-ring-gai,Greater Sydney,Greater Sydney
+70,2072,12103,Ku-ring-gai,Greater Sydney,Greater Sydney
+71,2073,12103,Ku-ring-gai,Greater Sydney,Greater Sydney
+72,2074,12103,Ku-ring-gai,Greater Sydney,Greater Sydney
+73,2075,12103,Ku-ring-gai,Greater Sydney,Greater Sydney
+74,2076,12102,Hornsby,Greater Sydney,Greater Sydney
+75,2077,12102,Hornsby,Greater Sydney,Greater Sydney
+76,2079,12102,Hornsby,Greater Sydney,Greater Sydney
+77,2080,12102,Hornsby,Greater Sydney,Greater Sydney
+78,2081,12102,Hornsby,Greater Sydney,Greater Sydney
+79,2082,11502,Dural - Wisemans Ferry,Greater Sydney,Greater Sydney
+80,2083,10201,Gosford,Greater Sydney,Greater Sydney
+81,2084,12202,Pittwater,Greater Sydney,Greater Sydney
+82,2085,12203,Warringah,Greater Sydney,Greater Sydney
+83,2086,12203,Warringah,Greater Sydney,Greater Sydney
+84,2087,12203,Warringah,Greater Sydney,Greater Sydney
+85,2088,12104,North Sydney - Mosman,Greater Sydney,Greater Sydney
+86,2089,12104,North Sydney - Mosman,Greater Sydney,Greater Sydney
+87,2090,12104,North Sydney - Mosman,Greater Sydney,Greater Sydney
+88,2092,12201,Manly,Greater Sydney,Greater Sydney
+89,2093,12201,Manly,Greater Sydney,Greater Sydney
+90,2094,12201,Manly,Greater Sydney,Greater Sydney
+91,2095,12201,Manly,Greater Sydney,Greater Sydney
+92,2096,12203,Warringah,Greater Sydney,Greater Sydney
+93,2097,12203,Warringah,Greater Sydney,Greater Sydney
+94,2099,12203,Warringah,Greater Sydney,Greater Sydney
+95,2100,12203,Warringah,Greater Sydney,Greater Sydney
+96,2101,12202,Pittwater,Greater Sydney,Greater Sydney
+97,2102,12202,Pittwater,Greater Sydney,Greater Sydney
+98,2103,12202,Pittwater,Greater Sydney,Greater Sydney
+99,2104,12202,Pittwater,Greater Sydney,Greater Sydney
+100,2105,12202,Pittwater,Greater Sydney,Greater Sydney
+101,2106,12202,Pittwater,Greater Sydney,Greater Sydney
+102,2107,12202,Pittwater,Greater Sydney,Greater Sydney
+103,2108,12202,Pittwater,Greater Sydney,Greater Sydney
+104,2110,12002,Leichhardt,Greater Sydney,Greater Sydney
+105,2111,12602,Ryde - Hunters Hill,Greater Sydney,Greater Sydney
+106,2112,12602,Ryde - Hunters Hill,Greater Sydney,Greater Sydney
+107,2113,12602,Ryde - Hunters Hill,Greater Sydney,Greater Sydney
+108,2114,12502,Carlingford,Greater Sydney,Greater Sydney
+109,2115,12502,Carlingford,Greater Sydney,Greater Sydney
+110,2116,12502,Carlingford,Greater Sydney,Greater Sydney
+111,2117,12502,Carlingford,Greater Sydney,Greater Sydney
+112,2118,12502,Carlingford,Greater Sydney,Greater Sydney
+113,2119,12502,Carlingford,Greater Sydney,Greater Sydney
+114,2120,12102,Hornsby,Greater Sydney,Greater Sydney
+115,2121,12502,Carlingford,Greater Sydney,Greater Sydney
+116,2122,12602,Ryde - Hunters Hill,Greater Sydney,Greater Sydney
+117,2125,11501,Baulkham Hills,Greater Sydney,Greater Sydney
+118,2126,11501,Baulkham Hills,Greater Sydney,Greater Sydney
+119,2127,12001,Canada Bay,Greater Sydney,Greater Sydney
+120,2128,12501,Auburn,Greater Sydney,Greater Sydney
+121,2130,12003,Strathfield - Burwood - Ashfield,Greater Sydney,Greater Sydney
+122,2131,12003,Strathfield - Burwood - Ashfield,Greater Sydney,Greater Sydney
+123,2132,12003,Strathfield - Burwood - Ashfield,Greater Sydney,Greater Sydney
+124,2133,12003,Strathfield - Burwood - Ashfield,Greater Sydney,Greater Sydney
+125,2134,12003,Strathfield - Burwood - Ashfield,Greater Sydney,Greater Sydney
+126,2135,12003,Strathfield - Burwood - Ashfield,Greater Sydney,Greater Sydney
+127,2136,12003,Strathfield - Burwood - Ashfield,Greater Sydney,Greater Sydney
+128,2137,12001,Canada Bay,Greater Sydney,Greater Sydney
+129,2138,12001,Canada Bay,Greater Sydney,Greater Sydney
+130,2140,12003,Strathfield - Burwood - Ashfield,Greater Sydney,Greater Sydney
+131,2141,12501,Auburn,Greater Sydney,Greater Sydney
+132,2142,12503,Merrylands - Guildford,Greater Sydney,Greater Sydney
+133,2143,11901,Bankstown,Greater Sydney,Greater Sydney
+134,2144,12501,Auburn,Greater Sydney,Greater Sydney
+135,2145,12503,Merrylands - Guildford,Greater Sydney,Greater Sydney
+136,2146,11601,Blacktown,Greater Sydney,Greater Sydney
+137,2147,11601,Blacktown,Greater Sydney,Greater Sydney
+138,2148,11601,Blacktown,Greater Sydney,Greater Sydney
+139,2150,12502,Carlingford,Greater Sydney,Greater Sydney
+140,2151,12504,Parramatta,Greater Sydney,Greater Sydney
+141,2152,12504,Parramatta,Greater Sydney,Greater Sydney
+142,2153,11501,Baulkham Hills,Greater Sydney,Greater Sydney
+143,2154,11501,Baulkham Hills,Greater Sydney,Greater Sydney
+144,2155,11501,Baulkham Hills,Greater Sydney,Greater Sydney
+145,2156,11501,Baulkham Hills,Greater Sydney,Greater Sydney
+146,2157,11502,Dural - Wisemans Ferry,Greater Sydney,Greater Sydney
+147,2158,11502,Dural - Wisemans Ferry,Greater Sydney,Greater Sydney
+148,2159,11502,Dural - Wisemans Ferry,Greater Sydney,Greater Sydney
+149,2160,12503,Merrylands - Guildford,Greater Sydney,Greater Sydney
+150,2161,12503,Merrylands - Guildford,Greater Sydney,Greater Sydney
+151,2162,12503,Merrylands - Guildford,Greater Sydney,Greater Sydney
+152,2163,11901,Bankstown,Greater Sydney,Greater Sydney
+153,2164,12503,Merrylands - Guildford,Greater Sydney,Greater Sydney
+154,2165,12503,Merrylands - Guildford,Greater Sydney,Greater Sydney
+155,2166,12702,Fairfield,Greater Sydney,Greater Sydney
+156,2167,12302,Campbelltown (NSW),Greater Sydney,Greater Sydney
+157,2168,12701,Bringelly - Green Valley,Greater Sydney,Greater Sydney
+158,2170,12702,Fairfield,Greater Sydney,Greater Sydney
+159,2171,12701,Bringelly - Green Valley,Greater Sydney,Greater Sydney
+160,2172,12703,Liverpool,Greater Sydney,Greater Sydney
+161,2173,12302,Campbelltown (NSW),Greater Sydney,Greater Sydney
+162,2174,12703,Liverpool,Greater Sydney,Greater Sydney
+163,2175,12702,Fairfield,Greater Sydney,Greater Sydney
+164,2176,12702,Fairfield,Greater Sydney,Greater Sydney
+165,2177,12702,Fairfield,Greater Sydney,Greater Sydney
+166,2178,12701,Bringelly - Green Valley,Greater Sydney,Greater Sydney
+167,2179,12701,Bringelly - Green Valley,Greater Sydney,Greater Sydney
+168,2190,11901,Bankstown,Greater Sydney,Greater Sydney
+169,2191,11902,Canterbury,Greater Sydney,Greater Sydney
+170,2192,11902,Canterbury,Greater Sydney,Greater Sydney
+171,2193,11902,Canterbury,Greater Sydney,Greater Sydney
+172,2194,11902,Canterbury,Greater Sydney,Greater Sydney
+173,2195,11902,Canterbury,Greater Sydney,Greater Sydney
+174,2196,11901,Bankstown,Greater Sydney,Greater Sydney
+175,2197,11901,Bankstown,Greater Sydney,Greater Sydney
+176,2198,11901,Bankstown,Greater Sydney,Greater Sydney
+177,2199,11901,Bankstown,Greater Sydney,Greater Sydney
+178,2200,11901,Bankstown,Greater Sydney,Greater Sydney
+179,2203,11702,Marrickville - Sydenham - Petersham,Greater Sydney,Greater Sydney
+180,2204,11702,Marrickville - Sydenham - Petersham,Greater Sydney,Greater Sydney
+181,2205,11904,Kogarah - Rockdale,Greater Sydney,Greater Sydney
+182,2206,11902,Canterbury,Greater Sydney,Greater Sydney
+183,2207,11904,Kogarah - Rockdale,Greater Sydney,Greater Sydney
+184,2208,11902,Canterbury,Greater Sydney,Greater Sydney
+185,2209,11902,Canterbury,Greater Sydney,Greater Sydney
+186,2210,11902,Canterbury,Greater Sydney,Greater Sydney
+187,2211,11901,Bankstown,Greater Sydney,Greater Sydney
+188,2212,11901,Bankstown,Greater Sydney,Greater Sydney
+189,2213,11901,Bankstown,Greater Sydney,Greater Sydney
+190,2214,11901,Bankstown,Greater Sydney,Greater Sydney
+191,2216,11904,Kogarah - Rockdale,Greater Sydney,Greater Sydney
+192,2217,11904,Kogarah - Rockdale,Greater Sydney,Greater Sydney
+193,2218,11903,Hurstville,Greater Sydney,Greater Sydney
+194,2219,11904,Kogarah - Rockdale,Greater Sydney,Greater Sydney
+195,2220,11903,Hurstville,Greater Sydney,Greater Sydney
+196,2221,11903,Hurstville,Greater Sydney,Greater Sydney
+197,2222,11903,Hurstville,Greater Sydney,Greater Sydney
+198,2223,11903,Hurstville,Greater Sydney,Greater Sydney
+199,2224,12801,Cronulla - Miranda - Caringbah,Greater Sydney,Greater Sydney
+200,2225,12802,Sutherland - Menai - Heathcote,Greater Sydney,Greater Sydney
+201,2226,12802,Sutherland - Menai - Heathcote,Greater Sydney,Greater Sydney
+202,2227,12801,Cronulla - Miranda - Caringbah,Greater Sydney,Greater Sydney
+203,2228,12801,Cronulla - Miranda - Caringbah,Greater Sydney,Greater Sydney
+204,2229,12801,Cronulla - Miranda - Caringbah,Greater Sydney,Greater Sydney
+205,2230,12801,Cronulla - Miranda - Caringbah,Greater Sydney,Greater Sydney
+206,2231,12801,Cronulla - Miranda - Caringbah,Greater Sydney,Greater Sydney
+207,2232,12801,Cronulla - Miranda - Caringbah,Greater Sydney,Greater Sydney
+208,2233,12802,Sutherland - Menai - Heathcote,Greater Sydney,Greater Sydney
+209,2234,12802,Sutherland - Menai - Heathcote,Greater Sydney,Greater Sydney
+210,2250,10201,Gosford,Greater Sydney,Greater Sydney
+211,2251,10201,Gosford,Greater Sydney,Greater Sydney
+212,2256,10201,Gosford,Greater Sydney,Greater Sydney
+213,2257,10201,Gosford,Greater Sydney,Greater Sydney
+214,2258,10202,Wyong,Greater Sydney,Greater Sydney
+215,2259,10202,Wyong,Greater Sydney,Greater Sydney
+216,2260,10201,Gosford,Greater Sydney,Greater Sydney
+217,2261,10201,Gosford,Greater Sydney,Greater Sydney
+218,2262,10202,Wyong,Greater Sydney,Greater Sydney
+219,2263,10202,Wyong,Greater Sydney,Greater Sydney
+220,2264,11102,Lake Macquarie - West,Rest of NSW,Newcastle and Lake Macquarie
+221,2265,11102,Lake Macquarie - West,Rest of NSW,Newcastle and Lake Macquarie
+222,2267,11102,Lake Macquarie - West,Rest of NSW,Newcastle and Lake Macquarie
+223,2278,11102,Lake Macquarie - West,Rest of NSW,Newcastle and Lake Macquarie
+224,2280,11101,Lake Macquarie - East,Rest of NSW,Newcastle and Lake Macquarie
+225,2281,11101,Lake Macquarie - East,Rest of NSW,Newcastle and Lake Macquarie
+226,2282,11101,Lake Macquarie - East,Rest of NSW,Newcastle and Lake Macquarie
+227,2283,11102,Lake Macquarie - West,Rest of NSW,Newcastle and Lake Macquarie
+228,2284,11101,Lake Macquarie - East,Rest of NSW,Newcastle and Lake Macquarie
+229,2285,11101,Lake Macquarie - East,Rest of NSW,Newcastle and Lake Macquarie
+230,2286,11102,Lake Macquarie - West,Rest of NSW,Newcastle and Lake Macquarie
+231,2287,11101,Lake Macquarie - East,Rest of NSW,Newcastle and Lake Macquarie
+232,2289,11101,Lake Macquarie - East,Rest of NSW,Newcastle and Lake Macquarie
+233,2290,11101,Lake Macquarie - East,Rest of NSW,Newcastle and Lake Macquarie
+234,2291,11103,Newcastle,Rest of NSW,Newcastle and Lake Macquarie
+235,2292,11103,Newcastle,Rest of NSW,Newcastle and Lake Macquarie
+236,2293,11103,Newcastle,Rest of NSW,Newcastle and Lake Macquarie
+237,2294,11103,Newcastle,Rest of NSW,Newcastle and Lake Macquarie
+238,2295,11103,Newcastle,Rest of NSW,Newcastle and Lake Macquarie
+239,2296,11103,Newcastle,Rest of NSW,Newcastle and Lake Macquarie
+240,2297,11103,Newcastle,Rest of NSW,Newcastle and Lake Macquarie
+241,2298,11103,Newcastle,Rest of NSW,Newcastle and Lake Macquarie
+242,2299,11103,Newcastle,Rest of NSW,Newcastle and Lake Macquarie
+243,2300,11103,Newcastle,Rest of NSW,Newcastle and Lake Macquarie
+244,2302,11103,Newcastle,Rest of NSW,Newcastle and Lake Macquarie
+245,2303,11103,Newcastle,Rest of NSW,Newcastle and Lake Macquarie
+246,2304,11103,Newcastle,Rest of NSW,Newcastle and Lake Macquarie
+247,2305,11101,Lake Macquarie - East,Rest of NSW,Newcastle and Lake Macquarie
+248,2306,11101,Lake Macquarie - East,Rest of NSW,Newcastle and Lake Macquarie
+249,2307,11103,Newcastle,Rest of NSW,Newcastle and Lake Macquarie
+250,2308,11103,Newcastle,Rest of NSW,Newcastle and Lake Macquarie
+251,2318,11103,Newcastle,Rest of NSW,Newcastle and Lake Macquarie
+252,2322,11103,Newcastle,Rest of NSW,Newcastle and Lake Macquarie
+253,2323,11102,Lake Macquarie - West,Rest of NSW,Newcastle and Lake Macquarie
+254,2330,11503,Hawkesbury,Greater Sydney,Greater Sydney
+255,2555,12403,Penrith,Greater Sydney,Greater Sydney
+256,2556,12701,Bringelly - Green Valley,Greater Sydney,Greater Sydney
+257,2557,12301,Camden,Greater Sydney,Greater Sydney
+258,2558,12302,Campbelltown (NSW),Greater Sydney,Greater Sydney
+259,2559,12302,Campbelltown (NSW),Greater Sydney,Greater Sydney
+260,2560,12302,Campbelltown (NSW),Greater Sydney,Greater Sydney
+261,2563,12302,Campbelltown (NSW),Greater Sydney,Greater Sydney
+262,2564,12302,Campbelltown (NSW),Greater Sydney,Greater Sydney
+263,2565,12302,Campbelltown (NSW),Greater Sydney,Greater Sydney
+264,2566,12302,Campbelltown (NSW),Greater Sydney,Greater Sydney
+265,2567,12301,Camden,Greater Sydney,Greater Sydney
+266,2568,12303,Wollondilly,Greater Sydney,Greater Sydney
+267,2569,12303,Wollondilly,Greater Sydney,Greater Sydney
+268,2570,12301,Camden,Greater Sydney,Greater Sydney
+269,2571,12303,Wollondilly,Greater Sydney,Greater Sydney
+270,2572,12303,Wollondilly,Greater Sydney,Greater Sydney
+271,2573,12303,Wollondilly,Greater Sydney,Greater Sydney
+272,2574,12303,Wollondilly,Greater Sydney,Greater Sydney
+273,2600,80103,Canberra East,Australian Capital Territory,Australian Capital Territory
+274,2601,80105,North Canberra,Australian Capital Territory,Australian Capital Territory
+275,2602,80105,North Canberra,Australian Capital Territory,Australian Capital Territory
+276,2603,80106,South Canberra,Australian Capital Territory,Australian Capital Territory
+277,2604,80106,South Canberra,Australian Capital Territory,Australian Capital Territory
+278,2605,80109,Woden Valley,Australian Capital Territory,Australian Capital Territory
+279,2606,80109,Woden Valley,Australian Capital Territory,Australian Capital Territory
+280,2607,80109,Woden Valley,Australian Capital Territory,Australian Capital Territory
+281,2609,80103,Canberra East,Australian Capital Territory,Australian Capital Territory
+282,2611,80101,Belconnen,Australian Capital Territory,Australian Capital Territory
+283,2612,80105,North Canberra,Australian Capital Territory,Australian Capital Territory
+284,2614,80101,Belconnen,Australian Capital Territory,Australian Capital Territory
+285,2615,80101,Belconnen,Australian Capital Territory,Australian Capital Territory
+286,2617,80101,Belconnen,Australian Capital Territory,Australian Capital Territory
+287,2618,80101,Belconnen,Australian Capital Territory,Australian Capital Territory
+288,2620,80103,Canberra East,Australian Capital Territory,Australian Capital Territory
+289,2745,12403,Penrith,Greater Sydney,Greater Sydney
+290,2747,11602,Blacktown - North,Greater Sydney,Greater Sydney
+291,2748,12403,Penrith,Greater Sydney,Greater Sydney
+292,2749,12403,Penrith,Greater Sydney,Greater Sydney
+293,2750,12403,Penrith,Greater Sydney,Greater Sydney
+294,2752,12303,Wollondilly,Greater Sydney,Greater Sydney
+295,2753,11503,Hawkesbury,Greater Sydney,Greater Sydney
+296,2754,11503,Hawkesbury,Greater Sydney,Greater Sydney
+297,2756,11502,Dural - Wisemans Ferry,Greater Sydney,Greater Sydney
+298,2757,11503,Hawkesbury,Greater Sydney,Greater Sydney
+299,2758,11503,Hawkesbury,Greater Sydney,Greater Sydney
+300,2759,12405,St Marys,Greater Sydney,Greater Sydney
+301,2760,11603,Mount Druitt,Greater Sydney,Greater Sydney
+302,2761,11602,Blacktown - North,Greater Sydney,Greater Sydney
+303,2762,11602,Blacktown - North,Greater Sydney,Greater Sydney
+304,2763,11601,Blacktown,Greater Sydney,Greater Sydney
+305,2765,11504,Rouse Hill - McGraths Hill,Greater Sydney,Greater Sydney
+306,2766,11603,Mount Druitt,Greater Sydney,Greater Sydney
+307,2767,11601,Blacktown,Greater Sydney,Greater Sydney
+308,2768,11602,Blacktown - North,Greater Sydney,Greater Sydney
+309,2769,11602,Blacktown - North,Greater Sydney,Greater Sydney
+310,2770,11603,Mount Druitt,Greater Sydney,Greater Sydney
+311,2773,12401,Blue Mountains,Greater Sydney,Greater Sydney
+312,2774,12401,Blue Mountains,Greater Sydney,Greater Sydney
+313,2775,10201,Gosford,Greater Sydney,Greater Sydney
+314,2776,12401,Blue Mountains,Greater Sydney,Greater Sydney
+315,2777,12401,Blue Mountains,Greater Sydney,Greater Sydney
+316,2778,12401,Blue Mountains,Greater Sydney,Greater Sydney
+317,2779,12401,Blue Mountains,Greater Sydney,Greater Sydney
+318,2780,12401,Blue Mountains,Greater Sydney,Greater Sydney
+319,2782,12401,Blue Mountains,Greater Sydney,Greater Sydney
+320,2783,12401,Blue Mountains,Greater Sydney,Greater Sydney
+321,2784,12401,Blue Mountains,Greater Sydney,Greater Sydney
+322,2785,12401,Blue Mountains,Greater Sydney,Greater Sydney
+323,2786,11503,Hawkesbury,Greater Sydney,Greater Sydney
+324,2787,12401,Blue Mountains,Greater Sydney,Greater Sydney
+325,2900,80107,Tuggeranong,Australian Capital Territory,Australian Capital Territory
+326,2902,80107,Tuggeranong,Australian Capital Territory,Australian Capital Territory
+327,2903,80107,Tuggeranong,Australian Capital Territory,Australian Capital Territory
+328,2904,80107,Tuggeranong,Australian Capital Territory,Australian Capital Territory
+329,2905,80107,Tuggeranong,Australian Capital Territory,Australian Capital Territory
+330,2906,80107,Tuggeranong,Australian Capital Territory,Australian Capital Territory
+331,2911,80104,Gungahlin,Australian Capital Territory,Australian Capital Territory
+332,2912,80104,Gungahlin,Australian Capital Territory,Australian Capital Territory
+333,2913,80104,Gungahlin,Australian Capital Territory,Australian Capital Territory
+334,2914,80104,Gungahlin,Australian Capital Territory,Australian Capital Territory
+335,3000,20604,Melbourne City,Greater Melbourne,Greater Melbourne
+336,3002,20604,Melbourne City,Greater Melbourne,Greater Melbourne
+337,3003,20604,Melbourne City,Greater Melbourne,Greater Melbourne
+338,3004,20604,Melbourne City,Greater Melbourne,Greater Melbourne
+339,3006,20604,Melbourne City,Greater Melbourne,Greater Melbourne
+340,3008,20604,Melbourne City,Greater Melbourne,Greater Melbourne
+341,3011,21303,Maribyrnong,Greater Melbourne,Greater Melbourne
+342,3012,21301,Brimbank,Greater Melbourne,Greater Melbourne
+343,3013,21303,Maribyrnong,Greater Melbourne,Greater Melbourne
+344,3015,21302,Hobsons Bay,Greater Melbourne,Greater Melbourne
+345,3016,21302,Hobsons Bay,Greater Melbourne,Greater Melbourne
+346,3018,21302,Hobsons Bay,Greater Melbourne,Greater Melbourne
+347,3019,21303,Maribyrnong,Greater Melbourne,Greater Melbourne
+348,3020,21301,Brimbank,Greater Melbourne,Greater Melbourne
+349,3021,21301,Brimbank,Greater Melbourne,Greater Melbourne
+350,3022,21301,Brimbank,Greater Melbourne,Greater Melbourne
+351,3023,21301,Brimbank,Greater Melbourne,Greater Melbourne
+352,3024,21304,Melton - Bacchus Marsh,Greater Melbourne,Greater Melbourne
+353,3025,21302,Hobsons Bay,Greater Melbourne,Greater Melbourne
+354,3026,21301,Brimbank,Greater Melbourne,Greater Melbourne
+355,3027,21305,Wyndham,Greater Melbourne,Greater Melbourne
+356,3028,21302,Hobsons Bay,Greater Melbourne,Greater Melbourne
+357,3029,21304,Melton - Bacchus Marsh,Greater Melbourne,Greater Melbourne
+358,3030,21305,Wyndham,Greater Melbourne,Greater Melbourne
+359,3031,20603,Essendon,Greater Melbourne,Greater Melbourne
+360,3032,20603,Essendon,Greater Melbourne,Greater Melbourne
+361,3033,21001,Keilor,Greater Melbourne,Greater Melbourne
+362,3034,21001,Keilor,Greater Melbourne,Greater Melbourne
+363,3036,21001,Keilor,Greater Melbourne,Greater Melbourne
+364,3037,21301,Brimbank,Greater Melbourne,Greater Melbourne
+365,3038,21301,Brimbank,Greater Melbourne,Greater Melbourne
+366,3039,20603,Essendon,Greater Melbourne,Greater Melbourne
+367,3040,20603,Essendon,Greater Melbourne,Greater Melbourne
+368,3041,20603,Essendon,Greater Melbourne,Greater Melbourne
+369,3042,21001,Keilor,Greater Melbourne,Greater Melbourne
+370,3043,21001,Keilor,Greater Melbourne,Greater Melbourne
+371,3044,20601,Brunswick - Coburg,Greater Melbourne,Greater Melbourne
+372,3045,21005,Tullamarine - Broadmeadows,Greater Melbourne,Greater Melbourne
+373,3046,21003,Moreland - North,Greater Melbourne,Greater Melbourne
+374,3047,21005,Tullamarine - Broadmeadows,Greater Melbourne,Greater Melbourne
+375,3048,21005,Tullamarine - Broadmeadows,Greater Melbourne,Greater Melbourne
+376,3049,21005,Tullamarine - Broadmeadows,Greater Melbourne,Greater Melbourne
+377,3051,20604,Melbourne City,Greater Melbourne,Greater Melbourne
+378,3052,20601,Brunswick - Coburg,Greater Melbourne,Greater Melbourne
+379,3053,20604,Melbourne City,Greater Melbourne,Greater Melbourne
+380,3054,20607,Yarra,Greater Melbourne,Greater Melbourne
+381,3055,20601,Brunswick - Coburg,Greater Melbourne,Greater Melbourne
+382,3056,20601,Brunswick - Coburg,Greater Melbourne,Greater Melbourne
+383,3057,20601,Brunswick - Coburg,Greater Melbourne,Greater Melbourne
+384,3058,20601,Brunswick - Coburg,Greater Melbourne,Greater Melbourne
+385,3059,21005,Tullamarine - Broadmeadows,Greater Melbourne,Greater Melbourne
+386,3060,21003,Moreland - North,Greater Melbourne,Greater Melbourne
+387,3061,21005,Tullamarine - Broadmeadows,Greater Melbourne,Greater Melbourne
+388,3062,21005,Tullamarine - Broadmeadows,Greater Melbourne,Greater Melbourne
+389,3063,21004,Sunbury,Greater Melbourne,Greater Melbourne
+390,3064,20904,Whittlesea - Wallan,Greater Melbourne,Greater Melbourne
+391,3065,20607,Yarra,Greater Melbourne,Greater Melbourne
+392,3066,20607,Yarra,Greater Melbourne,Greater Melbourne
+393,3067,20607,Yarra,Greater Melbourne,Greater Melbourne
+394,3068,20607,Yarra,Greater Melbourne,Greater Melbourne
+395,3070,20602,Darebin - South,Greater Melbourne,Greater Melbourne
+396,3071,20602,Darebin - South,Greater Melbourne,Greater Melbourne
+397,3072,20902,Darebin - North,Greater Melbourne,Greater Melbourne
+398,3073,20902,Darebin - North,Greater Melbourne,Greater Melbourne
+399,3074,20904,Whittlesea - Wallan,Greater Melbourne,Greater Melbourne
+400,3075,20904,Whittlesea - Wallan,Greater Melbourne,Greater Melbourne
+401,3076,20904,Whittlesea - Wallan,Greater Melbourne,Greater Melbourne
+402,3078,20602,Darebin - South,Greater Melbourne,Greater Melbourne
+403,3079,20901,Banyule,Greater Melbourne,Greater Melbourne
+404,3081,20901,Banyule,Greater Melbourne,Greater Melbourne
+405,3082,20904,Whittlesea - Wallan,Greater Melbourne,Greater Melbourne
+406,3083,20901,Banyule,Greater Melbourne,Greater Melbourne
+407,3084,20901,Banyule,Greater Melbourne,Greater Melbourne
+408,3085,20901,Banyule,Greater Melbourne,Greater Melbourne
+409,3087,20901,Banyule,Greater Melbourne,Greater Melbourne
+410,3088,20901,Banyule,Greater Melbourne,Greater Melbourne
+411,3089,20903,Nillumbik - Kinglake,Greater Melbourne,Greater Melbourne
+412,3090,20903,Nillumbik - Kinglake,Greater Melbourne,Greater Melbourne
+413,3091,20903,Nillumbik - Kinglake,Greater Melbourne,Greater Melbourne
+414,3093,20901,Banyule,Greater Melbourne,Greater Melbourne
+415,3094,20901,Banyule,Greater Melbourne,Greater Melbourne
+416,3095,20901,Banyule,Greater Melbourne,Greater Melbourne
+417,3096,20903,Nillumbik - Kinglake,Greater Melbourne,Greater Melbourne
+418,3097,20903,Nillumbik - Kinglake,Greater Melbourne,Greater Melbourne
+419,3099,20903,Nillumbik - Kinglake,Greater Melbourne,Greater Melbourne
+420,3101,20701,Boroondara,Greater Melbourne,Greater Melbourne
+421,3102,20701,Boroondara,Greater Melbourne,Greater Melbourne
+422,3103,20701,Boroondara,Greater Melbourne,Greater Melbourne
+423,3104,20701,Boroondara,Greater Melbourne,Greater Melbourne
+424,3105,20702,Manningham - West,Greater Melbourne,Greater Melbourne
+425,3106,20702,Manningham - West,Greater Melbourne,Greater Melbourne
+426,3107,20702,Manningham - West,Greater Melbourne,Greater Melbourne
+427,3108,20702,Manningham - West,Greater Melbourne,Greater Melbourne
+428,3109,20702,Manningham - West,Greater Melbourne,Greater Melbourne
+429,3111,20702,Manningham - West,Greater Melbourne,Greater Melbourne
+430,3113,20903,Nillumbik - Kinglake,Greater Melbourne,Greater Melbourne
+431,3114,21102,Manningham - East,Greater Melbourne,Greater Melbourne
+432,3115,21102,Manningham - East,Greater Melbourne,Greater Melbourne
+433,3116,21105,Yarra Ranges,Greater Melbourne,Greater Melbourne
+434,3121,20607,Yarra,Greater Melbourne,Greater Melbourne
+435,3122,20701,Boroondara,Greater Melbourne,Greater Melbourne
+436,3123,20701,Boroondara,Greater Melbourne,Greater Melbourne
+437,3124,20701,Boroondara,Greater Melbourne,Greater Melbourne
+438,3125,20703,Whitehorse - West,Greater Melbourne,Greater Melbourne
+439,3126,20701,Boroondara,Greater Melbourne,Greater Melbourne
+440,3127,20701,Boroondara,Greater Melbourne,Greater Melbourne
+441,3128,20703,Whitehorse - West,Greater Melbourne,Greater Melbourne
+442,3129,20702,Manningham - West,Greater Melbourne,Greater Melbourne
+443,3130,20703,Whitehorse - West,Greater Melbourne,Greater Melbourne
+444,3131,21104,Whitehorse - East,Greater Melbourne,Greater Melbourne
+445,3132,21104,Whitehorse - East,Greater Melbourne,Greater Melbourne
+446,3133,21104,Whitehorse - East,Greater Melbourne,Greater Melbourne
+447,3134,21102,Manningham - East,Greater Melbourne,Greater Melbourne
+448,3135,21103,Maroondah,Greater Melbourne,Greater Melbourne
+449,3136,21103,Maroondah,Greater Melbourne,Greater Melbourne
+450,3137,21103,Maroondah,Greater Melbourne,Greater Melbourne
+451,3138,21105,Yarra Ranges,Greater Melbourne,Greater Melbourne
+452,3139,21105,Yarra Ranges,Greater Melbourne,Greater Melbourne
+453,3140,21105,Yarra Ranges,Greater Melbourne,Greater Melbourne
+454,3141,20604,Melbourne City,Greater Melbourne,Greater Melbourne
+455,3142,20606,Stonnington - West,Greater Melbourne,Greater Melbourne
+456,3143,20606,Stonnington - West,Greater Melbourne,Greater Melbourne
+457,3144,20606,Stonnington - West,Greater Melbourne,Greater Melbourne
+458,3145,20802,Glen Eira,Greater Melbourne,Greater Melbourne
+459,3146,20701,Boroondara,Greater Melbourne,Greater Melbourne
+460,3147,20701,Boroondara,Greater Melbourne,Greater Melbourne
+461,3148,21205,Monash,Greater Melbourne,Greater Melbourne
+462,3149,21205,Monash,Greater Melbourne,Greater Melbourne
+463,3150,21205,Monash,Greater Melbourne,Greater Melbourne
+464,3151,20703,Whitehorse - West,Greater Melbourne,Greater Melbourne
+465,3152,21101,Knox,Greater Melbourne,Greater Melbourne
+466,3153,21101,Knox,Greater Melbourne,Greater Melbourne
+467,3154,21101,Knox,Greater Melbourne,Greater Melbourne
+468,3155,21101,Knox,Greater Melbourne,Greater Melbourne
+469,3156,21101,Knox,Greater Melbourne,Greater Melbourne
+470,3158,21105,Yarra Ranges,Greater Melbourne,Greater Melbourne
+471,3159,21105,Yarra Ranges,Greater Melbourne,Greater Melbourne
+472,3160,21105,Yarra Ranges,Greater Melbourne,Greater Melbourne
+473,3161,20802,Glen Eira,Greater Melbourne,Greater Melbourne
+474,3162,20802,Glen Eira,Greater Melbourne,Greater Melbourne
+475,3163,20802,Glen Eira,Greater Melbourne,Greater Melbourne
+476,3165,20802,Glen Eira,Greater Melbourne,Greater Melbourne
+477,3166,20802,Glen Eira,Greater Melbourne,Greater Melbourne
+478,3167,21204,Dandenong,Greater Melbourne,Greater Melbourne
+479,3168,21205,Monash,Greater Melbourne,Greater Melbourne
+480,3169,21204,Dandenong,Greater Melbourne,Greater Melbourne
+481,3170,21205,Monash,Greater Melbourne,Greater Melbourne
+482,3171,21204,Dandenong,Greater Melbourne,Greater Melbourne
+483,3172,20803,Kingston,Greater Melbourne,Greater Melbourne
+484,3173,21204,Dandenong,Greater Melbourne,Greater Melbourne
+485,3174,21204,Dandenong,Greater Melbourne,Greater Melbourne
+486,3175,21204,Dandenong,Greater Melbourne,Greater Melbourne
+487,3177,21202,Casey - North,Greater Melbourne,Greater Melbourne
+488,3178,21101,Knox,Greater Melbourne,Greater Melbourne
+489,3179,21101,Knox,Greater Melbourne,Greater Melbourne
+490,3180,21101,Knox,Greater Melbourne,Greater Melbourne
+491,3181,20605,Port Phillip,Greater Melbourne,Greater Melbourne
+492,3182,20605,Port Phillip,Greater Melbourne,Greater Melbourne
+493,3183,20605,Port Phillip,Greater Melbourne,Greater Melbourne
+494,3184,20605,Port Phillip,Greater Melbourne,Greater Melbourne
+495,3185,20605,Port Phillip,Greater Melbourne,Greater Melbourne
+496,3186,20801,Bayside,Greater Melbourne,Greater Melbourne
+497,3187,20801,Bayside,Greater Melbourne,Greater Melbourne
+498,3188,20801,Bayside,Greater Melbourne,Greater Melbourne
+499,3189,20803,Kingston,Greater Melbourne,Greater Melbourne
+500,3190,20801,Bayside,Greater Melbourne,Greater Melbourne
+501,3191,20801,Bayside,Greater Melbourne,Greater Melbourne
+502,3192,20801,Bayside,Greater Melbourne,Greater Melbourne
+503,3193,20801,Bayside,Greater Melbourne,Greater Melbourne
+504,3194,20803,Kingston,Greater Melbourne,Greater Melbourne
+505,3195,20803,Kingston,Greater Melbourne,Greater Melbourne
+506,3196,20803,Kingston,Greater Melbourne,Greater Melbourne
+507,3197,20803,Kingston,Greater Melbourne,Greater Melbourne
+508,3198,21401,Frankston,Greater Melbourne,Greater Melbourne
+509,3199,21401,Frankston,Greater Melbourne,Greater Melbourne
+510,3200,21401,Frankston,Greater Melbourne,Greater Melbourne
+511,3201,21401,Frankston,Greater Melbourne,Greater Melbourne
+512,3202,20803,Kingston,Greater Melbourne,Greater Melbourne
+513,3204,20802,Glen Eira,Greater Melbourne,Greater Melbourne
+514,3205,20605,Port Phillip,Greater Melbourne,Greater Melbourne
+515,3206,20605,Port Phillip,Greater Melbourne,Greater Melbourne
+516,3207,20605,Port Phillip,Greater Melbourne,Greater Melbourne
+517,3211,21305,Wyndham,Greater Melbourne,Greater Melbourne
+518,3335,21304,Melton - Bacchus Marsh,Greater Melbourne,Greater Melbourne
+519,3336,21304,Melton - Bacchus Marsh,Greater Melbourne,Greater Melbourne
+520,3337,21304,Melton - Bacchus Marsh,Greater Melbourne,Greater Melbourne
+521,3338,21304,Melton - Bacchus Marsh,Greater Melbourne,Greater Melbourne
+522,3340,21304,Melton - Bacchus Marsh,Greater Melbourne,Greater Melbourne
+523,3341,21304,Melton - Bacchus Marsh,Greater Melbourne,Greater Melbourne
+524,3427,21004,Sunbury,Greater Melbourne,Greater Melbourne
+525,3428,21005,Tullamarine - Broadmeadows,Greater Melbourne,Greater Melbourne
+526,3429,21004,Sunbury,Greater Melbourne,Greater Melbourne
+527,3430,21002,Macedon Ranges,Greater Melbourne,Greater Melbourne
+528,3431,21002,Macedon Ranges,Greater Melbourne,Greater Melbourne
+529,3432,21002,Macedon Ranges,Greater Melbourne,Greater Melbourne
+530,3433,21002,Macedon Ranges,Greater Melbourne,Greater Melbourne
+531,3434,21002,Macedon Ranges,Greater Melbourne,Greater Melbourne
+532,3435,21002,Macedon Ranges,Greater Melbourne,Greater Melbourne
+533,3437,21002,Macedon Ranges,Greater Melbourne,Greater Melbourne
+534,3438,21002,Macedon Ranges,Greater Melbourne,Greater Melbourne
+535,3440,21002,Macedon Ranges,Greater Melbourne,Greater Melbourne
+536,3441,21002,Macedon Ranges,Greater Melbourne,Greater Melbourne
+537,3442,21002,Macedon Ranges,Greater Melbourne,Greater Melbourne
+538,3658,20904,Whittlesea - Wallan,Greater Melbourne,Greater Melbourne
+539,3699,20502,Gippsland - East,Rest of Vic.,Latrobe - Gippsland
+540,3701,20502,Gippsland - East,Rest of Vic.,Latrobe - Gippsland
+541,3707,20502,Gippsland - East,Rest of Vic.,Latrobe - Gippsland
+542,3723,20505,Wellington,Rest of Vic.,Latrobe - Gippsland
+543,3750,20904,Whittlesea - Wallan,Greater Melbourne,Greater Melbourne
+544,3751,20904,Whittlesea - Wallan,Greater Melbourne,Greater Melbourne
+545,3752,20904,Whittlesea - Wallan,Greater Melbourne,Greater Melbourne
+546,3753,20904,Whittlesea - Wallan,Greater Melbourne,Greater Melbourne
+547,3754,20903,Nillumbik - Kinglake,Greater Melbourne,Greater Melbourne
+548,3755,20904,Whittlesea - Wallan,Greater Melbourne,Greater Melbourne
+549,3756,20904,Whittlesea - Wallan,Greater Melbourne,Greater Melbourne
+550,3757,20903,Nillumbik - Kinglake,Greater Melbourne,Greater Melbourne
+551,3758,20904,Whittlesea - Wallan,Greater Melbourne,Greater Melbourne
+552,3759,20903,Nillumbik - Kinglake,Greater Melbourne,Greater Melbourne
+553,3760,20903,Nillumbik - Kinglake,Greater Melbourne,Greater Melbourne
+554,3761,20903,Nillumbik - Kinglake,Greater Melbourne,Greater Melbourne
+555,3762,20904,Whittlesea - Wallan,Greater Melbourne,Greater Melbourne
+556,3763,20903,Nillumbik - Kinglake,Greater Melbourne,Greater Melbourne
+557,3765,21105,Yarra Ranges,Greater Melbourne,Greater Melbourne
+558,3766,21105,Yarra Ranges,Greater Melbourne,Greater Melbourne
+559,3767,21105,Yarra Ranges,Greater Melbourne,Greater Melbourne
+560,3770,21105,Yarra Ranges,Greater Melbourne,Greater Melbourne
+561,3775,20903,Nillumbik - Kinglake,Greater Melbourne,Greater Melbourne
+562,3777,20903,Nillumbik - Kinglake,Greater Melbourne,Greater Melbourne
+563,3778,21105,Yarra Ranges,Greater Melbourne,Greater Melbourne
+564,3781,21201,Cardinia,Greater Melbourne,Greater Melbourne
+565,3782,21105,Yarra Ranges,Greater Melbourne,Greater Melbourne
+566,3783,21201,Cardinia,Greater Melbourne,Greater Melbourne
+567,3785,21105,Yarra Ranges,Greater Melbourne,Greater Melbourne
+568,3786,21105,Yarra Ranges,Greater Melbourne,Greater Melbourne
+569,3787,21105,Yarra Ranges,Greater Melbourne,Greater Melbourne
+570,3788,21105,Yarra Ranges,Greater Melbourne,Greater Melbourne
+571,3789,21105,Yarra Ranges,Greater Melbourne,Greater Melbourne
+572,3791,21105,Yarra Ranges,Greater Melbourne,Greater Melbourne
+573,3792,21105,Yarra Ranges,Greater Melbourne,Greater Melbourne
+574,3793,21105,Yarra Ranges,Greater Melbourne,Greater Melbourne
+575,3795,21105,Yarra Ranges,Greater Melbourne,Greater Melbourne
+576,3796,21105,Yarra Ranges,Greater Melbourne,Greater Melbourne
+577,3797,21105,Yarra Ranges,Greater Melbourne,Greater Melbourne
+578,3799,21105,Yarra Ranges,Greater Melbourne,Greater Melbourne
+579,3802,21202,Casey - North,Greater Melbourne,Greater Melbourne
+580,3803,21202,Casey - North,Greater Melbourne,Greater Melbourne
+581,3804,21105,Yarra Ranges,Greater Melbourne,Greater Melbourne
+582,3805,21202,Casey - North,Greater Melbourne,Greater Melbourne
+583,3806,21202,Casey - North,Greater Melbourne,Greater Melbourne
+584,3807,21201,Cardinia,Greater Melbourne,Greater Melbourne
+585,3808,21201,Cardinia,Greater Melbourne,Greater Melbourne
+586,3809,21201,Cardinia,Greater Melbourne,Greater Melbourne
+587,3810,21201,Cardinia,Greater Melbourne,Greater Melbourne
+588,3812,21201,Cardinia,Greater Melbourne,Greater Melbourne
+589,3813,21201,Cardinia,Greater Melbourne,Greater Melbourne
+590,3814,21201,Cardinia,Greater Melbourne,Greater Melbourne
+591,3815,21201,Cardinia,Greater Melbourne,Greater Melbourne
+592,3816,20501,Baw Baw,Rest of Vic.,Latrobe - Gippsland
+593,3818,20501,Baw Baw,Rest of Vic.,Latrobe - Gippsland
+594,3820,20501,Baw Baw,Rest of Vic.,Latrobe - Gippsland
+595,3821,20501,Baw Baw,Rest of Vic.,Latrobe - Gippsland
+596,3822,20501,Baw Baw,Rest of Vic.,Latrobe - Gippsland
+597,3823,20501,Baw Baw,Rest of Vic.,Latrobe - Gippsland
+598,3824,20501,Baw Baw,Rest of Vic.,Latrobe - Gippsland
+599,3825,20501,Baw Baw,Rest of Vic.,Latrobe - Gippsland
+600,3831,20501,Baw Baw,Rest of Vic.,Latrobe - Gippsland
+601,3832,20501,Baw Baw,Rest of Vic.,Latrobe - Gippsland
+602,3833,20501,Baw Baw,Rest of Vic.,Latrobe - Gippsland
+603,3835,20501,Baw Baw,Rest of Vic.,Latrobe - Gippsland
+604,3840,20504,Latrobe Valley,Rest of Vic.,Latrobe - Gippsland
+605,3842,20504,Latrobe Valley,Rest of Vic.,Latrobe - Gippsland
+606,3844,20504,Latrobe Valley,Rest of Vic.,Latrobe - Gippsland
+607,3847,20505,Wellington,Rest of Vic.,Latrobe - Gippsland
+608,3850,20505,Wellington,Rest of Vic.,Latrobe - Gippsland
+609,3851,20505,Wellington,Rest of Vic.,Latrobe - Gippsland
+610,3852,20505,Wellington,Rest of Vic.,Latrobe - Gippsland
+611,3854,20504,Latrobe Valley,Rest of Vic.,Latrobe - Gippsland
+612,3856,20504,Latrobe Valley,Rest of Vic.,Latrobe - Gippsland
+613,3857,20504,Latrobe Valley,Rest of Vic.,Latrobe - Gippsland
+614,3858,20505,Wellington,Rest of Vic.,Latrobe - Gippsland
+615,3859,20505,Wellington,Rest of Vic.,Latrobe - Gippsland
+616,3860,20505,Wellington,Rest of Vic.,Latrobe - Gippsland
+617,3862,20502,Gippsland - East,Rest of Vic.,Latrobe - Gippsland
+618,3864,20502,Gippsland - East,Rest of Vic.,Latrobe - Gippsland
+619,3865,20502,Gippsland - East,Rest of Vic.,Latrobe - Gippsland
+620,3869,20504,Latrobe Valley,Rest of Vic.,Latrobe - Gippsland
+621,3870,20504,Latrobe Valley,Rest of Vic.,Latrobe - Gippsland
+622,3871,20501,Baw Baw,Rest of Vic.,Latrobe - Gippsland
+623,3873,20505,Wellington,Rest of Vic.,Latrobe - Gippsland
+624,3874,20505,Wellington,Rest of Vic.,Latrobe - Gippsland
+625,3875,20502,Gippsland - East,Rest of Vic.,Latrobe - Gippsland
+626,3878,20502,Gippsland - East,Rest of Vic.,Latrobe - Gippsland
+627,3880,20502,Gippsland - East,Rest of Vic.,Latrobe - Gippsland
+628,3882,20502,Gippsland - East,Rest of Vic.,Latrobe - Gippsland
+629,3885,20502,Gippsland - East,Rest of Vic.,Latrobe - Gippsland
+630,3886,20502,Gippsland - East,Rest of Vic.,Latrobe - Gippsland
+631,3887,20502,Gippsland - East,Rest of Vic.,Latrobe - Gippsland
+632,3888,20502,Gippsland - East,Rest of Vic.,Latrobe - Gippsland
+633,3889,20502,Gippsland - East,Rest of Vic.,Latrobe - Gippsland
+634,3890,20502,Gippsland - East,Rest of Vic.,Latrobe - Gippsland
+635,3891,20502,Gippsland - East,Rest of Vic.,Latrobe - Gippsland
+636,3892,20502,Gippsland - East,Rest of Vic.,Latrobe - Gippsland
+637,3893,20502,Gippsland - East,Rest of Vic.,Latrobe - Gippsland
+638,3895,20502,Gippsland - East,Rest of Vic.,Latrobe - Gippsland
+639,3896,20502,Gippsland - East,Rest of Vic.,Latrobe - Gippsland
+640,3898,20502,Gippsland - East,Rest of Vic.,Latrobe - Gippsland
+641,3900,20502,Gippsland - East,Rest of Vic.,Latrobe - Gippsland
+642,3902,20502,Gippsland - East,Rest of Vic.,Latrobe - Gippsland
+643,3903,20502,Gippsland - East,Rest of Vic.,Latrobe - Gippsland
+644,3904,20502,Gippsland - East,Rest of Vic.,Latrobe - Gippsland
+645,3909,20502,Gippsland - East,Rest of Vic.,Latrobe - Gippsland
+646,3910,21401,Frankston,Greater Melbourne,Greater Melbourne
+647,3911,21401,Frankston,Greater Melbourne,Greater Melbourne
+648,3912,21203,Casey - South,Greater Melbourne,Greater Melbourne
+649,3913,21402,Mornington Peninsula,Greater Melbourne,Greater Melbourne
+650,3915,21402,Mornington Peninsula,Greater Melbourne,Greater Melbourne
+651,3916,21402,Mornington Peninsula,Greater Melbourne,Greater Melbourne
+652,3918,21402,Mornington Peninsula,Greater Melbourne,Greater Melbourne
+653,3919,21402,Mornington Peninsula,Greater Melbourne,Greater Melbourne
+654,3920,21402,Mornington Peninsula,Greater Melbourne,Greater Melbourne
+655,3921,20503,Gippsland - South West,Rest of Vic.,Latrobe - Gippsland
+656,3922,20503,Gippsland - South West,Rest of Vic.,Latrobe - Gippsland
+657,3923,20503,Gippsland - South West,Rest of Vic.,Latrobe - Gippsland
+658,3925,20503,Gippsland - South West,Rest of Vic.,Latrobe - Gippsland
+659,3926,21402,Mornington Peninsula,Greater Melbourne,Greater Melbourne
+660,3927,21402,Mornington Peninsula,Greater Melbourne,Greater Melbourne
+661,3928,21402,Mornington Peninsula,Greater Melbourne,Greater Melbourne
+662,3929,21402,Mornington Peninsula,Greater Melbourne,Greater Melbourne
+663,3930,21402,Mornington Peninsula,Greater Melbourne,Greater Melbourne
+664,3931,21402,Mornington Peninsula,Greater Melbourne,Greater Melbourne
+665,3933,21402,Mornington Peninsula,Greater Melbourne,Greater Melbourne
+666,3934,21402,Mornington Peninsula,Greater Melbourne,Greater Melbourne
+667,3936,21402,Mornington Peninsula,Greater Melbourne,Greater Melbourne
+668,3937,21402,Mornington Peninsula,Greater Melbourne,Greater Melbourne
+669,3938,21402,Mornington Peninsula,Greater Melbourne,Greater Melbourne
+670,3939,21402,Mornington Peninsula,Greater Melbourne,Greater Melbourne
+671,3940,21402,Mornington Peninsula,Greater Melbourne,Greater Melbourne
+672,3941,21402,Mornington Peninsula,Greater Melbourne,Greater Melbourne
+673,3942,21402,Mornington Peninsula,Greater Melbourne,Greater Melbourne
+674,3943,21402,Mornington Peninsula,Greater Melbourne,Greater Melbourne
+675,3944,21402,Mornington Peninsula,Greater Melbourne,Greater Melbourne
+676,3945,20503,Gippsland - South West,Rest of Vic.,Latrobe - Gippsland
+677,3946,20503,Gippsland - South West,Rest of Vic.,Latrobe - Gippsland
+678,3950,20503,Gippsland - South West,Rest of Vic.,Latrobe - Gippsland
+679,3951,20503,Gippsland - South West,Rest of Vic.,Latrobe - Gippsland
+680,3953,20503,Gippsland - South West,Rest of Vic.,Latrobe - Gippsland
+681,3954,20503,Gippsland - South West,Rest of Vic.,Latrobe - Gippsland
+682,3956,20503,Gippsland - South West,Rest of Vic.,Latrobe - Gippsland
+683,3957,20503,Gippsland - South West,Rest of Vic.,Latrobe - Gippsland
+684,3958,20503,Gippsland - South West,Rest of Vic.,Latrobe - Gippsland
+685,3959,20503,Gippsland - South West,Rest of Vic.,Latrobe - Gippsland
+686,3960,20503,Gippsland - South West,Rest of Vic.,Latrobe - Gippsland
+687,3962,20503,Gippsland - South West,Rest of Vic.,Latrobe - Gippsland
+688,3964,20503,Gippsland - South West,Rest of Vic.,Latrobe - Gippsland
+689,3965,20503,Gippsland - South West,Rest of Vic.,Latrobe - Gippsland
+690,3966,20503,Gippsland - South West,Rest of Vic.,Latrobe - Gippsland
+691,3967,20503,Gippsland - South West,Rest of Vic.,Latrobe - Gippsland
+692,3971,20504,Latrobe Valley,Rest of Vic.,Latrobe - Gippsland
+693,3975,21203,Casey - South,Greater Melbourne,Greater Melbourne
+694,3976,21203,Casey - South,Greater Melbourne,Greater Melbourne
+695,3977,21203,Casey - South,Greater Melbourne,Greater Melbourne
+696,3978,21201,Cardinia,Greater Melbourne,Greater Melbourne
+697,3979,20503,Gippsland - South West,Rest of Vic.,Latrobe - Gippsland
+698,3980,21201,Cardinia,Greater Melbourne,Greater Melbourne
+699,3981,20501,Baw Baw,Rest of Vic.,Latrobe - Gippsland
+700,3984,20503,Gippsland - South West,Rest of Vic.,Latrobe - Gippsland
+701,3987,20503,Gippsland - South West,Rest of Vic.,Latrobe - Gippsland
+702,3988,20501,Baw Baw,Rest of Vic.,Latrobe - Gippsland
+703,3990,20503,Gippsland - South West,Rest of Vic.,Latrobe - Gippsland
+704,3991,20503,Gippsland - South West,Rest of Vic.,Latrobe - Gippsland
+705,3992,20503,Gippsland - South West,Rest of Vic.,Latrobe - Gippsland
+706,3995,20503,Gippsland - South West,Rest of Vic.,Latrobe - Gippsland
+707,3996,20503,Gippsland - South West,Rest of Vic.,Latrobe - Gippsland
+708,4000,30501,Brisbane Inner,Greater Brisbane,Greater Brisbane
+709,4005,30501,Brisbane Inner,Greater Brisbane,Greater Brisbane
+710,4006,30501,Brisbane Inner,Greater Brisbane,Greater Brisbane
+711,4007,30203,Nundah,Greater Brisbane,Greater Brisbane
+712,4008,30203,Nundah,Greater Brisbane,Greater Brisbane
+713,4009,30203,Nundah,Greater Brisbane,Greater Brisbane
+714,4010,30503,Brisbane Inner - North,Greater Brisbane,Greater Brisbane
+715,4011,30503,Brisbane Inner - North,Greater Brisbane,Greater Brisbane
+716,4012,30202,Chermside,Greater Brisbane,Greater Brisbane
+717,4013,30203,Nundah,Greater Brisbane,Greater Brisbane
+718,4014,30202,Chermside,Greater Brisbane,Greater Brisbane
+719,4017,30204,Sandgate,Greater Brisbane,Greater Brisbane
+720,4018,30204,Sandgate,Greater Brisbane,Greater Brisbane
+721,4019,31305,Redcliffe,Greater Brisbane,Greater Brisbane
+722,4020,31305,Redcliffe,Greater Brisbane,Greater Brisbane
+723,4021,31305,Redcliffe,Greater Brisbane,Greater Brisbane
+724,4022,31305,Redcliffe,Greater Brisbane,Greater Brisbane
+725,4025,31305,Redcliffe,Greater Brisbane,Greater Brisbane
+726,4030,30503,Brisbane Inner - North,Greater Brisbane,Greater Brisbane
+727,4031,30202,Chermside,Greater Brisbane,Greater Brisbane
+728,4032,30202,Chermside,Greater Brisbane,Greater Brisbane
+729,4034,30201,Bald Hills - Everton Park,Greater Brisbane,Greater Brisbane
+730,4035,30201,Bald Hills - Everton Park,Greater Brisbane,Greater Brisbane
+731,4036,30201,Bald Hills - Everton Park,Greater Brisbane,Greater Brisbane
+732,4037,31401,The Hills District,Greater Brisbane,Greater Brisbane
+733,4051,30404,The Gap - Enoggera,Greater Brisbane,Greater Brisbane
+734,4053,30201,Bald Hills - Everton Park,Greater Brisbane,Greater Brisbane
+735,4054,30404,The Gap - Enoggera,Greater Brisbane,Greater Brisbane
+736,4055,30404,The Gap - Enoggera,Greater Brisbane,Greater Brisbane
+737,4059,30503,Brisbane Inner - North,Greater Brisbane,Greater Brisbane
+738,4060,30504,Brisbane Inner - West,Greater Brisbane,Greater Brisbane
+739,4061,30404,The Gap - Enoggera,Greater Brisbane,Greater Brisbane
+740,4064,30504,Brisbane Inner - West,Greater Brisbane,Greater Brisbane
+741,4065,30504,Brisbane Inner - West,Greater Brisbane,Greater Brisbane
+742,4066,30403,Sherwood - Indooroopilly,Greater Brisbane,Greater Brisbane
+743,4067,30403,Sherwood - Indooroopilly,Greater Brisbane,Greater Brisbane
+744,4068,30402,Kenmore - Brookfield - Moggill,Greater Brisbane,Greater Brisbane
+745,4069,30402,Kenmore - Brookfield - Moggill,Greater Brisbane,Greater Brisbane
+746,4070,30402,Kenmore - Brookfield - Moggill,Greater Brisbane,Greater Brisbane
+747,4073,30401,Centenary,Greater Brisbane,Greater Brisbane
+748,4074,30401,Centenary,Greater Brisbane,Greater Brisbane
+749,4075,30401,Centenary,Greater Brisbane,Greater Brisbane
+750,4076,30401,Centenary,Greater Brisbane,Greater Brisbane
+751,4077,31001,Forest Lake - Oxley,Greater Brisbane,Greater Brisbane
+752,4078,30305,Rocklea - Acacia Ridge,Greater Brisbane,Greater Brisbane
+753,4101,30501,Brisbane Inner,Greater Brisbane,Greater Brisbane
+754,4102,30302,Holland Park - Yeronga,Greater Brisbane,Greater Brisbane
+755,4103,30302,Holland Park - Yeronga,Greater Brisbane,Greater Brisbane
+756,4104,30302,Holland Park - Yeronga,Greater Brisbane,Greater Brisbane
+757,4105,30302,Holland Park - Yeronga,Greater Brisbane,Greater Brisbane
+758,4106,30305,Rocklea - Acacia Ridge,Greater Brisbane,Greater Brisbane
+759,4107,30304,Nathan,Greater Brisbane,Greater Brisbane
+760,4108,30304,Nathan,Greater Brisbane,Greater Brisbane
+761,4109,30303,Mt Gravatt,Greater Brisbane,Greater Brisbane
+762,4110,30304,Nathan,Greater Brisbane,Greater Brisbane
+763,4111,30304,Nathan,Greater Brisbane,Greater Brisbane
+764,4112,30306,Sunnybank,Greater Brisbane,Greater Brisbane
+765,4113,30303,Mt Gravatt,Greater Brisbane,Greater Brisbane
+766,4114,31103,Browns Plains,Greater Brisbane,Greater Brisbane
+767,4115,30305,Rocklea - Acacia Ridge,Greater Brisbane,Greater Brisbane
+768,4116,30305,Rocklea - Acacia Ridge,Greater Brisbane,Greater Brisbane
+769,4117,30305,Rocklea - Acacia Ridge,Greater Brisbane,Greater Brisbane
+770,4118,31103,Browns Plains,Greater Brisbane,Greater Brisbane
+771,4119,31106,Springwood - Kingston,Greater Brisbane,Greater Brisbane
+772,4120,30302,Holland Park - Yeronga,Greater Brisbane,Greater Brisbane
+773,4121,30302,Holland Park - Yeronga,Greater Brisbane,Greater Brisbane
+774,4122,30303,Mt Gravatt,Greater Brisbane,Greater Brisbane
+775,4123,30303,Mt Gravatt,Greater Brisbane,Greater Brisbane
+776,4124,31103,Browns Plains,Greater Brisbane,Greater Brisbane
+777,4125,31103,Browns Plains,Greater Brisbane,Greater Brisbane
+778,4127,31106,Springwood - Kingston,Greater Brisbane,Greater Brisbane
+779,4128,31105,Loganlea - Carbrook,Greater Brisbane,Greater Brisbane
+780,4129,31105,Loganlea - Carbrook,Greater Brisbane,Greater Brisbane
+781,4130,31105,Loganlea - Carbrook,Greater Brisbane,Greater Brisbane
+782,4131,31103,Browns Plains,Greater Brisbane,Greater Brisbane
+783,4132,31103,Browns Plains,Greater Brisbane,Greater Brisbane
+784,4133,31103,Browns Plains,Greater Brisbane,Greater Brisbane
+785,4151,30301,Carindale,Greater Brisbane,Greater Brisbane
+786,4152,30301,Carindale,Greater Brisbane,Greater Brisbane
+787,4153,30101,Capalaba,Greater Brisbane,Greater Brisbane
+788,4154,30101,Capalaba,Greater Brisbane,Greater Brisbane
+789,4155,30101,Capalaba,Greater Brisbane,Greater Brisbane
+790,4156,30303,Mt Gravatt,Greater Brisbane,Greater Brisbane
+791,4157,30101,Capalaba,Greater Brisbane,Greater Brisbane
+792,4158,30101,Capalaba,Greater Brisbane,Greater Brisbane
+793,4159,30101,Capalaba,Greater Brisbane,Greater Brisbane
+794,4160,30101,Capalaba,Greater Brisbane,Greater Brisbane
+795,4161,30101,Capalaba,Greater Brisbane,Greater Brisbane
+796,4163,30102,Cleveland - Stradbroke,Greater Brisbane,Greater Brisbane
+797,4164,30102,Cleveland - Stradbroke,Greater Brisbane,Greater Brisbane
+798,4165,30102,Cleveland - Stradbroke,Greater Brisbane,Greater Brisbane
+799,4169,30302,Holland Park - Yeronga,Greater Brisbane,Greater Brisbane
+800,4170,30301,Carindale,Greater Brisbane,Greater Brisbane
+801,4171,30502,Brisbane Inner - East,Greater Brisbane,Greater Brisbane
+802,4172,30103,Wynnum - Manly,Greater Brisbane,Greater Brisbane
+803,4173,30103,Wynnum - Manly,Greater Brisbane,Greater Brisbane
+804,4174,30103,Wynnum - Manly,Greater Brisbane,Greater Brisbane
+805,4178,30102,Cleveland - Stradbroke,Greater Brisbane,Greater Brisbane
+806,4179,30103,Wynnum - Manly,Greater Brisbane,Greater Brisbane
+807,4183,30102,Cleveland - Stradbroke,Greater Brisbane,Greater Brisbane
+808,4184,30102,Cleveland - Stradbroke,Greater Brisbane,Greater Brisbane
+809,4205,31102,Beenleigh,Greater Brisbane,Greater Brisbane
+810,4207,30907,Ormeau - Oxenford,Rest of Qld,Gold Coast
+811,4208,30907,Ormeau - Oxenford,Rest of Qld,Gold Coast
+812,4209,30907,Ormeau - Oxenford,Rest of Qld,Gold Coast
+813,4210,30904,Gold Coast Hinterland,Rest of Qld,Gold Coast
+814,4211,30904,Gold Coast Hinterland,Rest of Qld,Gold Coast
+815,4212,30907,Ormeau - Oxenford,Rest of Qld,Gold Coast
+816,4213,30904,Gold Coast Hinterland,Rest of Qld,Gold Coast
+817,4214,30903,Gold Coast - North,Rest of Qld,Gold Coast
+818,4215,30903,Gold Coast - North,Rest of Qld,Gold Coast
+819,4216,30903,Gold Coast - North,Rest of Qld,Gold Coast
+820,4217,30909,Southport,Rest of Qld,Gold Coast
+821,4218,30901,Broadbeach - Burleigh,Rest of Qld,Gold Coast
+822,4220,30901,Broadbeach - Burleigh,Rest of Qld,Gold Coast
+823,4221,30902,Coolangatta,Rest of Qld,Gold Coast
+824,4223,30902,Coolangatta,Rest of Qld,Gold Coast
+825,4224,30902,Coolangatta,Rest of Qld,Gold Coast
+826,4225,30902,Coolangatta,Rest of Qld,Gold Coast
+827,4226,30906,Nerang,Rest of Qld,Gold Coast
+828,4227,30905,Mudgeeraba - Tallebudgera,Rest of Qld,Gold Coast
+829,4228,30905,Mudgeeraba - Tallebudgera,Rest of Qld,Gold Coast
+830,4270,30904,Gold Coast Hinterland,Rest of Qld,Gold Coast
+831,4272,30904,Gold Coast Hinterland,Rest of Qld,Gold Coast
+832,4275,30904,Gold Coast Hinterland,Rest of Qld,Gold Coast
+833,4280,31104,Jimboomba,Greater Brisbane,Greater Brisbane
+834,4285,31002,Ipswich Hinterland,Greater Brisbane,Greater Brisbane
+835,4287,31101,Beaudesert,Greater Brisbane,Greater Brisbane
+836,4300,31003,Ipswich Inner,Greater Brisbane,Greater Brisbane
+837,4301,31004,Springfield - Redbank,Greater Brisbane,Greater Brisbane
+838,4303,31003,Ipswich Inner,Greater Brisbane,Greater Brisbane
+839,4304,31003,Ipswich Inner,Greater Brisbane,Greater Brisbane
+840,4305,31002,Ipswich Hinterland,Greater Brisbane,Greater Brisbane
+841,4306,31002,Ipswich Hinterland,Greater Brisbane,Greater Brisbane
+842,4307,31002,Ipswich Hinterland,Greater Brisbane,Greater Brisbane
+843,4309,31002,Ipswich Hinterland,Greater Brisbane,Greater Brisbane
+844,4310,31002,Ipswich Hinterland,Greater Brisbane,Greater Brisbane
+845,4311,31002,Ipswich Hinterland,Greater Brisbane,Greater Brisbane
+846,4312,31002,Ipswich Hinterland,Greater Brisbane,Greater Brisbane
+847,4313,31002,Ipswich Hinterland,Greater Brisbane,Greater Brisbane
+848,4314,31303,Caboolture Hinterland,Greater Brisbane,Greater Brisbane
+849,4340,31002,Ipswich Hinterland,Greater Brisbane,Greater Brisbane
+850,4341,31002,Ipswich Hinterland,Greater Brisbane,Greater Brisbane
+851,4342,31002,Ipswich Hinterland,Greater Brisbane,Greater Brisbane
+852,4343,31002,Ipswich Hinterland,Greater Brisbane,Greater Brisbane
+853,4346,31002,Ipswich Hinterland,Greater Brisbane,Greater Brisbane
+854,4500,31401,The Hills District,Greater Brisbane,Greater Brisbane
+855,4501,31403,Strathpine,Greater Brisbane,Greater Brisbane
+856,4502,31403,Strathpine,Greater Brisbane,Greater Brisbane
+857,4503,31401,The Hills District,Greater Brisbane,Greater Brisbane
+858,4504,31304,Narangba - Burpengary,Greater Brisbane,Greater Brisbane
+859,4505,31302,Caboolture,Greater Brisbane,Greater Brisbane
+860,4506,31302,Caboolture,Greater Brisbane,Greater Brisbane
+861,4507,31301,Bribie - Beachmere,Greater Brisbane,Greater Brisbane
+862,4508,31304,Narangba - Burpengary,Greater Brisbane,Greater Brisbane
+863,4509,31402,North Lakes,Greater Brisbane,Greater Brisbane
+864,4510,31301,Bribie - Beachmere,Greater Brisbane,Greater Brisbane
+865,4511,31301,Bribie - Beachmere,Greater Brisbane,Greater Brisbane
+866,4512,31302,Caboolture,Greater Brisbane,Greater Brisbane
+867,4514,31303,Caboolture Hinterland,Greater Brisbane,Greater Brisbane
+868,4515,31303,Caboolture Hinterland,Greater Brisbane,Greater Brisbane
+869,4516,31302,Caboolture,Greater Brisbane,Greater Brisbane
+870,4517,31606,Sunshine Coast Hinterland,Rest of Qld,Sunshine Coast
+871,4518,31606,Sunshine Coast Hinterland,Rest of Qld,Sunshine Coast
+872,4519,31606,Sunshine Coast Hinterland,Rest of Qld,Sunshine Coast
+873,4520,30404,The Gap - Enoggera,Greater Brisbane,Greater Brisbane
+874,4521,31303,Caboolture Hinterland,Greater Brisbane,Greater Brisbane
+875,4550,31606,Sunshine Coast Hinterland,Rest of Qld,Sunshine Coast
+876,4551,31602,Caloundra,Rest of Qld,Sunshine Coast
+877,4552,31303,Caboolture Hinterland,Greater Brisbane,Greater Brisbane
+878,4553,31606,Sunshine Coast Hinterland,Rest of Qld,Sunshine Coast
+879,4554,31606,Sunshine Coast Hinterland,Rest of Qld,Sunshine Coast
+880,4555,31606,Sunshine Coast Hinterland,Rest of Qld,Sunshine Coast
+881,4556,31601,Buderim,Rest of Qld,Sunshine Coast
+882,4557,31601,Buderim,Rest of Qld,Sunshine Coast
+883,4558,31603,Maroochy,Rest of Qld,Sunshine Coast
+884,4559,31606,Sunshine Coast Hinterland,Rest of Qld,Sunshine Coast
+885,4560,31603,Maroochy,Rest of Qld,Sunshine Coast
+886,4561,31607,Nambour,Rest of Qld,Sunshine Coast
+887,4562,31606,Sunshine Coast Hinterland,Rest of Qld,Sunshine Coast
+888,4563,31608,Noosa Hinterland,Rest of Qld,Sunshine Coast
+889,4564,31603,Maroochy,Rest of Qld,Sunshine Coast
+890,4565,31605,Noosa,Rest of Qld,Sunshine Coast
+891,4566,31605,Noosa,Rest of Qld,Sunshine Coast
+892,4567,31605,Noosa,Rest of Qld,Sunshine Coast
+893,4568,31608,Noosa Hinterland,Rest of Qld,Sunshine Coast
+894,4569,31608,Noosa Hinterland,Rest of Qld,Sunshine Coast
+895,4571,31608,Noosa Hinterland,Rest of Qld,Sunshine Coast
+896,4572,31603,Maroochy,Rest of Qld,Sunshine Coast
+897,4573,31603,Maroochy,Rest of Qld,Sunshine Coast
+898,4574,31606,Sunshine Coast Hinterland,Rest of Qld,Sunshine Coast
+899,4575,31602,Caloundra,Rest of Qld,Sunshine Coast
+900,5000,40101,Adelaide City,Greater Adelaide,Greater Adelaide
+901,5006,40101,Adelaide City,Greater Adelaide,Greater Adelaide
+902,5007,40401,Charles Sturt,Greater Adelaide,Greater Adelaide
+903,5008,40401,Charles Sturt,Greater Adelaide,Greater Adelaide
+904,5009,40401,Charles Sturt,Greater Adelaide,Greater Adelaide
+905,5010,40402,Port Adelaide - West,Greater Adelaide,Greater Adelaide
+906,5011,40401,Charles Sturt,Greater Adelaide,Greater Adelaide
+907,5012,40401,Charles Sturt,Greater Adelaide,Greater Adelaide
+908,5013,40401,Charles Sturt,Greater Adelaide,Greater Adelaide
+909,5014,40401,Charles Sturt,Greater Adelaide,Greater Adelaide
+910,5015,40402,Port Adelaide - West,Greater Adelaide,Greater Adelaide
+911,5016,40402,Port Adelaide - West,Greater Adelaide,Greater Adelaide
+912,5017,40402,Port Adelaide - West,Greater Adelaide,Greater Adelaide
+913,5018,40402,Port Adelaide - West,Greater Adelaide,Greater Adelaide
+914,5019,40401,Charles Sturt,Greater Adelaide,Greater Adelaide
+915,5020,40401,Charles Sturt,Greater Adelaide,Greater Adelaide
+916,5021,40401,Charles Sturt,Greater Adelaide,Greater Adelaide
+917,5022,40401,Charles Sturt,Greater Adelaide,Greater Adelaide
+918,5023,40401,Charles Sturt,Greater Adelaide,Greater Adelaide
+919,5024,40401,Charles Sturt,Greater Adelaide,Greater Adelaide
+920,5025,40401,Charles Sturt,Greater Adelaide,Greater Adelaide
+921,5031,40403,West Torrens,Greater Adelaide,Greater Adelaide
+922,5032,40403,West Torrens,Greater Adelaide,Greater Adelaide
+923,5033,40403,West Torrens,Greater Adelaide,Greater Adelaide
+924,5034,40107,Unley,Greater Adelaide,Greater Adelaide
+925,5035,40107,Unley,Greater Adelaide,Greater Adelaide
+926,5037,40302,Marion,Greater Adelaide,Greater Adelaide
+927,5038,40302,Marion,Greater Adelaide,Greater Adelaide
+928,5039,40302,Marion,Greater Adelaide,Greater Adelaide
+929,5040,40403,West Torrens,Greater Adelaide,Greater Adelaide
+930,5041,40303,Mitcham,Greater Adelaide,Greater Adelaide
+931,5042,40302,Marion,Greater Adelaide,Greater Adelaide
+932,5043,40302,Marion,Greater Adelaide,Greater Adelaide
+933,5044,40301,Holdfast Bay,Greater Adelaide,Greater Adelaide
+934,5045,40301,Holdfast Bay,Greater Adelaide,Greater Adelaide
+935,5046,40302,Marion,Greater Adelaide,Greater Adelaide
+936,5047,40302,Marion,Greater Adelaide,Greater Adelaide
+937,5048,40301,Holdfast Bay,Greater Adelaide,Greater Adelaide
+938,5049,40301,Holdfast Bay,Greater Adelaide,Greater Adelaide
+939,5050,40303,Mitcham,Greater Adelaide,Greater Adelaide
+940,5051,40303,Mitcham,Greater Adelaide,Greater Adelaide
+941,5052,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+942,5061,40107,Unley,Greater Adelaide,Greater Adelaide
+943,5062,40303,Mitcham,Greater Adelaide,Greater Adelaide
+944,5063,40103,Burnside,Greater Adelaide,Greater Adelaide
+945,5064,40103,Burnside,Greater Adelaide,Greater Adelaide
+946,5065,40103,Burnside,Greater Adelaide,Greater Adelaide
+947,5066,40103,Burnside,Greater Adelaide,Greater Adelaide
+948,5067,40103,Burnside,Greater Adelaide,Greater Adelaide
+949,5068,40103,Burnside,Greater Adelaide,Greater Adelaide
+950,5069,40105,Norwood - Payneham - St Peters,Greater Adelaide,Greater Adelaide
+951,5070,40105,Norwood - Payneham - St Peters,Greater Adelaide,Greater Adelaide
+952,5072,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+953,5073,40104,Campbelltown (SA),Greater Adelaide,Greater Adelaide
+954,5074,40104,Campbelltown (SA),Greater Adelaide,Greater Adelaide
+955,5075,40104,Campbelltown (SA),Greater Adelaide,Greater Adelaide
+956,5076,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+957,5081,40106,Prospect - Walkerville,Greater Adelaide,Greater Adelaide
+958,5082,40106,Prospect - Walkerville,Greater Adelaide,Greater Adelaide
+959,5083,40106,Prospect - Walkerville,Greater Adelaide,Greater Adelaide
+960,5084,40203,Port Adelaide - East,Greater Adelaide,Greater Adelaide
+961,5085,40203,Port Adelaide - East,Greater Adelaide,Greater Adelaide
+962,5086,40203,Port Adelaide - East,Greater Adelaide,Greater Adelaide
+963,5087,40203,Port Adelaide - East,Greater Adelaide,Greater Adelaide
+964,5088,40205,Tea Tree Gully,Greater Adelaide,Greater Adelaide
+965,5089,40205,Tea Tree Gully,Greater Adelaide,Greater Adelaide
+966,5090,40205,Tea Tree Gully,Greater Adelaide,Greater Adelaide
+967,5091,40205,Tea Tree Gully,Greater Adelaide,Greater Adelaide
+968,5092,40204,Salisbury,Greater Adelaide,Greater Adelaide
+969,5093,40203,Port Adelaide - East,Greater Adelaide,Greater Adelaide
+970,5094,40203,Port Adelaide - East,Greater Adelaide,Greater Adelaide
+971,5095,40204,Salisbury,Greater Adelaide,Greater Adelaide
+972,5096,40204,Salisbury,Greater Adelaide,Greater Adelaide
+973,5097,40205,Tea Tree Gully,Greater Adelaide,Greater Adelaide
+974,5098,40203,Port Adelaide - East,Greater Adelaide,Greater Adelaide
+975,5106,40204,Salisbury,Greater Adelaide,Greater Adelaide
+976,5107,40204,Salisbury,Greater Adelaide,Greater Adelaide
+977,5108,40204,Salisbury,Greater Adelaide,Greater Adelaide
+978,5109,40204,Salisbury,Greater Adelaide,Greater Adelaide
+979,5110,40202,Playford,Greater Adelaide,Greater Adelaide
+980,5111,40204,Salisbury,Greater Adelaide,Greater Adelaide
+981,5112,40202,Playford,Greater Adelaide,Greater Adelaide
+982,5113,40202,Playford,Greater Adelaide,Greater Adelaide
+983,5114,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+984,5115,40201,Gawler - Two Wells,Greater Adelaide,Greater Adelaide
+985,5116,40201,Gawler - Two Wells,Greater Adelaide,Greater Adelaide
+986,5117,40202,Playford,Greater Adelaide,Greater Adelaide
+987,5118,40201,Gawler - Two Wells,Greater Adelaide,Greater Adelaide
+988,5120,40202,Playford,Greater Adelaide,Greater Adelaide
+989,5121,40202,Playford,Greater Adelaide,Greater Adelaide
+990,5125,40204,Salisbury,Greater Adelaide,Greater Adelaide
+991,5126,40205,Tea Tree Gully,Greater Adelaide,Greater Adelaide
+992,5127,40205,Tea Tree Gully,Greater Adelaide,Greater Adelaide
+993,5131,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+994,5132,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+995,5133,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+996,5134,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+997,5136,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+998,5137,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+999,5138,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+1000,5139,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+1001,5140,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+1002,5141,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+1003,5142,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+1004,5144,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+1005,5150,40103,Burnside,Greater Adelaide,Greater Adelaide
+1006,5151,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+1007,5152,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+1008,5153,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+1009,5154,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+1010,5155,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+1011,5156,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+1012,5157,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+1013,5158,40302,Marion,Greater Adelaide,Greater Adelaide
+1014,5159,40304,Onkaparinga,Greater Adelaide,Greater Adelaide
+1015,5160,40302,Marion,Greater Adelaide,Greater Adelaide
+1016,5161,40304,Onkaparinga,Greater Adelaide,Greater Adelaide
+1017,5162,40304,Onkaparinga,Greater Adelaide,Greater Adelaide
+1018,5163,40304,Onkaparinga,Greater Adelaide,Greater Adelaide
+1019,5164,40304,Onkaparinga,Greater Adelaide,Greater Adelaide
+1020,5165,40304,Onkaparinga,Greater Adelaide,Greater Adelaide
+1021,5166,40304,Onkaparinga,Greater Adelaide,Greater Adelaide
+1022,5167,40304,Onkaparinga,Greater Adelaide,Greater Adelaide
+1023,5168,40304,Onkaparinga,Greater Adelaide,Greater Adelaide
+1024,5169,40304,Onkaparinga,Greater Adelaide,Greater Adelaide
+1025,5170,40304,Onkaparinga,Greater Adelaide,Greater Adelaide
+1026,5171,40304,Onkaparinga,Greater Adelaide,Greater Adelaide
+1027,5172,40304,Onkaparinga,Greater Adelaide,Greater Adelaide
+1028,5173,40304,Onkaparinga,Greater Adelaide,Greater Adelaide
+1029,5174,40304,Onkaparinga,Greater Adelaide,Greater Adelaide
+1030,5201,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+1031,5231,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+1032,5232,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+1033,5233,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+1034,5234,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+1035,5235,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+1036,5240,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+1037,5241,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+1038,5242,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+1039,5243,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+1040,5244,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+1041,5245,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+1042,5250,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+1043,5251,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+1044,5252,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+1045,5254,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+1046,5351,40102,Adelaide Hills,Greater Adelaide,Greater Adelaide
+1047,5371,40201,Gawler - Two Wells,Greater Adelaide,Greater Adelaide
+1048,5400,40201,Gawler - Two Wells,Greater Adelaide,Greater Adelaide
+1049,5501,40201,Gawler - Two Wells,Greater Adelaide,Greater Adelaide
+1050,5950,40403,West Torrens,Greater Adelaide,Greater Adelaide
+1051,6000,50302,Perth City,Greater Perth,Greater Perth
+1052,6003,50302,Perth City,Greater Perth,Greater Perth
+1053,6004,50302,Perth City,Greater Perth,Greater Perth
+1054,6005,50302,Perth City,Greater Perth,Greater Perth
+1055,6006,50302,Perth City,Greater Perth,Greater Perth
+1056,6007,50302,Perth City,Greater Perth,Greater Perth
+1057,6008,50302,Perth City,Greater Perth,Greater Perth
+1058,6009,50301,Cottesloe - Claremont,Greater Perth,Greater Perth
+1059,6010,50301,Cottesloe - Claremont,Greater Perth,Greater Perth
+1060,6011,50301,Cottesloe - Claremont,Greater Perth,Greater Perth
+1061,6012,50301,Cottesloe - Claremont,Greater Perth,Greater Perth
+1062,6014,50301,Cottesloe - Claremont,Greater Perth,Greater Perth
+1063,6015,50301,Cottesloe - Claremont,Greater Perth,Greater Perth
+1064,6016,50302,Perth City,Greater Perth,Greater Perth
+1065,6017,50502,Stirling,Greater Perth,Greater Perth
+1066,6018,50502,Stirling,Greater Perth,Greater Perth
+1067,6019,50502,Stirling,Greater Perth,Greater Perth
+1068,6020,50501,Joondalup,Greater Perth,Greater Perth
+1069,6021,50502,Stirling,Greater Perth,Greater Perth
+1070,6022,50502,Stirling,Greater Perth,Greater Perth
+1071,6023,50501,Joondalup,Greater Perth,Greater Perth
+1072,6024,50501,Joondalup,Greater Perth,Greater Perth
+1073,6025,50501,Joondalup,Greater Perth,Greater Perth
+1074,6026,50501,Joondalup,Greater Perth,Greater Perth
+1075,6027,50501,Joondalup,Greater Perth,Greater Perth
+1076,6028,50501,Joondalup,Greater Perth,Greater Perth
+1077,6029,50502,Stirling,Greater Perth,Greater Perth
+1078,6030,50503,Wanneroo,Greater Perth,Greater Perth
+1079,6031,50503,Wanneroo,Greater Perth,Greater Perth
+1080,6032,50503,Wanneroo,Greater Perth,Greater Perth
+1081,6033,50503,Wanneroo,Greater Perth,Greater Perth
+1082,6034,50503,Wanneroo,Greater Perth,Greater Perth
+1083,6035,50503,Wanneroo,Greater Perth,Greater Perth
+1084,6036,50503,Wanneroo,Greater Perth,Greater Perth
+1085,6037,50503,Wanneroo,Greater Perth,Greater Perth
+1086,6038,50503,Wanneroo,Greater Perth,Greater Perth
+1087,6050,50302,Perth City,Greater Perth,Greater Perth
+1088,6051,50401,Bayswater - Bassendean,Greater Perth,Greater Perth
+1089,6052,50302,Perth City,Greater Perth,Greater Perth
+1090,6053,50401,Bayswater - Bassendean,Greater Perth,Greater Perth
+1091,6054,50401,Bayswater - Bassendean,Greater Perth,Greater Perth
+1092,6055,50403,Swan,Greater Perth,Greater Perth
+1093,6056,50402,Mundaring,Greater Perth,Greater Perth
+1094,6057,50602,Belmont - Victoria Park,Greater Perth,Greater Perth
+1095,6058,50605,Kalamunda,Greater Perth,Greater Perth
+1096,6059,50401,Bayswater - Bassendean,Greater Perth,Greater Perth
+1097,6060,50502,Stirling,Greater Perth,Greater Perth
+1098,6061,50502,Stirling,Greater Perth,Greater Perth
+1099,6062,50401,Bayswater - Bassendean,Greater Perth,Greater Perth
+1100,6063,50403,Swan,Greater Perth,Greater Perth
+1101,6064,50503,Wanneroo,Greater Perth,Greater Perth
+1102,6065,50501,Joondalup,Greater Perth,Greater Perth
+1103,6066,50403,Swan,Greater Perth,Greater Perth
+1104,6067,50403,Swan,Greater Perth,Greater Perth
+1105,6068,50403,Swan,Greater Perth,Greater Perth
+1106,6069,50403,Swan,Greater Perth,Greater Perth
+1107,6070,50402,Mundaring,Greater Perth,Greater Perth
+1108,6071,50402,Mundaring,Greater Perth,Greater Perth
+1109,6072,50402,Mundaring,Greater Perth,Greater Perth
+1110,6073,50402,Mundaring,Greater Perth,Greater Perth
+1111,6074,50402,Mundaring,Greater Perth,Greater Perth
+1112,6076,50402,Mundaring,Greater Perth,Greater Perth
+1113,6077,50503,Wanneroo,Greater Perth,Greater Perth
+1114,6078,50503,Wanneroo,Greater Perth,Greater Perth
+1115,6079,50403,Swan,Greater Perth,Greater Perth
+1116,6081,50402,Mundaring,Greater Perth,Greater Perth
+1117,6082,50402,Mundaring,Greater Perth,Greater Perth
+1118,6083,50403,Swan,Greater Perth,Greater Perth
+1119,6084,50403,Swan,Greater Perth,Greater Perth
+1120,6090,50403,Swan,Greater Perth,Greater Perth
+1121,6100,50602,Belmont - Victoria Park,Greater Perth,Greater Perth
+1122,6101,50602,Belmont - Victoria Park,Greater Perth,Greater Perth
+1123,6102,50603,Canning,Greater Perth,Greater Perth
+1124,6103,50602,Belmont - Victoria Park,Greater Perth,Greater Perth
+1125,6104,50602,Belmont - Victoria Park,Greater Perth,Greater Perth
+1126,6105,50403,Swan,Greater Perth,Greater Perth
+1127,6106,50603,Canning,Greater Perth,Greater Perth
+1128,6107,50603,Canning,Greater Perth,Greater Perth
+1129,6108,50604,Gosnells,Greater Perth,Greater Perth
+1130,6109,50604,Gosnells,Greater Perth,Greater Perth
+1131,6110,50604,Gosnells,Greater Perth,Greater Perth
+1132,6111,50601,Armadale,Greater Perth,Greater Perth
+1133,6112,50601,Armadale,Greater Perth,Greater Perth
+1134,6121,50606,Serpentine - Jarrahdale,Greater Perth,Greater Perth
+1135,6122,50606,Serpentine - Jarrahdale,Greater Perth,Greater Perth
+1136,6123,50606,Serpentine - Jarrahdale,Greater Perth,Greater Perth
+1137,6124,50606,Serpentine - Jarrahdale,Greater Perth,Greater Perth
+1138,6125,50606,Serpentine - Jarrahdale,Greater Perth,Greater Perth
+1139,6126,50606,Serpentine - Jarrahdale,Greater Perth,Greater Perth
+1140,6147,50603,Canning,Greater Perth,Greater Perth
+1141,6148,50603,Canning,Greater Perth,Greater Perth
+1142,6149,50701,Cockburn,Greater Perth,Greater Perth
+1143,6150,50704,Melville,Greater Perth,Greater Perth
+1144,6151,50607,South Perth,Greater Perth,Greater Perth
+1145,6152,50607,South Perth,Greater Perth,Greater Perth
+1146,6153,50704,Melville,Greater Perth,Greater Perth
+1147,6154,50704,Melville,Greater Perth,Greater Perth
+1148,6155,50603,Canning,Greater Perth,Greater Perth
+1149,6156,50704,Melville,Greater Perth,Greater Perth
+1150,6157,50704,Melville,Greater Perth,Greater Perth
+1151,6158,50702,Fremantle,Greater Perth,Greater Perth
+1152,6159,50702,Fremantle,Greater Perth,Greater Perth
+1153,6160,50702,Fremantle,Greater Perth,Greater Perth
+1154,6161,50702,Fremantle,Greater Perth,Greater Perth
+1155,6162,50702,Fremantle,Greater Perth,Greater Perth
+1156,6163,50701,Cockburn,Greater Perth,Greater Perth
+1157,6164,50701,Cockburn,Greater Perth,Greater Perth
+1158,6165,50703,Kwinana,Greater Perth,Greater Perth
+1159,6166,50701,Cockburn,Greater Perth,Greater Perth
+1160,6167,50703,Kwinana,Greater Perth,Greater Perth
+1161,6168,50705,Rockingham,Greater Perth,Greater Perth
+1162,6169,50705,Rockingham,Greater Perth,Greater Perth
+1163,6170,50703,Kwinana,Greater Perth,Greater Perth
+1164,6171,50705,Rockingham,Greater Perth,Greater Perth
+1165,6172,50705,Rockingham,Greater Perth,Greater Perth
+1166,6173,50705,Rockingham,Greater Perth,Greater Perth
+1167,6174,50705,Rockingham,Greater Perth,Greater Perth
+1168,6175,50705,Rockingham,Greater Perth,Greater Perth
+1169,6176,50705,Rockingham,Greater Perth,Greater Perth
+1170,6180,50201,Mandurah,Greater Perth,Greater Perth
+1171,6181,50201,Mandurah,Greater Perth,Greater Perth
+1172,6182,50705,Rockingham,Greater Perth,Greater Perth
+1173,6207,50201,Mandurah,Greater Perth,Greater Perth
+1174,6208,50201,Mandurah,Greater Perth,Greater Perth
+1175,6209,50201,Mandurah,Greater Perth,Greater Perth
+1176,6210,50201,Mandurah,Greater Perth,Greater Perth
+1177,6211,50201,Mandurah,Greater Perth,Greater Perth
+1178,6214,50201,Mandurah,Greater Perth,Greater Perth
+1179,6556,50402,Mundaring,Greater Perth,Greater Perth
+1180,6558,50402,Mundaring,Greater Perth,Greater Perth
+1181,7000,60105,Hobart Inner,Greater Hobart,Greater Hobart
+1182,7004,60105,Hobart Inner,Greater Hobart,Greater Hobart
+1183,7005,60105,Hobart Inner,Greater Hobart,Greater Hobart
+1184,7007,60105,Hobart Inner,Greater Hobart,Greater Hobart
+1185,7008,60105,Hobart Inner,Greater Hobart,Greater Hobart
+1186,7009,60103,Hobart - North West,Greater Hobart,Greater Hobart
+1187,7010,60103,Hobart - North West,Greater Hobart,Greater Hobart
+1188,7011,60103,Hobart - North West,Greater Hobart,Greater Hobart
+1189,7012,60103,Hobart - North West,Greater Hobart,Greater Hobart
+1190,7015,60102,Hobart - North East,Greater Hobart,Greater Hobart
+1191,7016,60102,Hobart - North East,Greater Hobart,Greater Hobart
+1192,7017,60101,Brighton,Greater Hobart,Greater Hobart
+1193,7018,60102,Hobart - North East,Greater Hobart,Greater Hobart
+1194,7019,60102,Hobart - North East,Greater Hobart,Greater Hobart
+1195,7020,60102,Hobart - North East,Greater Hobart,Greater Hobart
+1196,7021,60102,Hobart - North East,Greater Hobart,Greater Hobart
+1197,7022,60102,Hobart - North East,Greater Hobart,Greater Hobart
+1198,7023,60102,Hobart - North East,Greater Hobart,Greater Hobart
+1199,7024,60102,Hobart - North East,Greater Hobart,Greater Hobart
+1200,7025,60102,Hobart - North East,Greater Hobart,Greater Hobart
+1201,7026,60106,Sorell - Dodges Ferry,Greater Hobart,Greater Hobart
+1202,7030,60101,Brighton,Greater Hobart,Greater Hobart
+1203,7050,60104,Hobart - South and West,Greater Hobart,Greater Hobart
+1204,7052,60104,Hobart - South and West,Greater Hobart,Greater Hobart
+1205,7053,60104,Hobart - South and West,Greater Hobart,Greater Hobart
+1206,7054,60104,Hobart - South and West,Greater Hobart,Greater Hobart
+1207,7055,60104,Hobart - South and West,Greater Hobart,Greater Hobart
+1208,7109,60104,Hobart - South and West,Greater Hobart,Greater Hobart
+1209,7140,60103,Hobart - North West,Greater Hobart,Greater Hobart
+1210,7150,60104,Hobart - South and West,Greater Hobart,Greater Hobart
+1211,7170,60102,Hobart - North East,Greater Hobart,Greater Hobart
+1212,7171,60102,Hobart - North East,Greater Hobart,Greater Hobart
+1213,7172,60106,Sorell - Dodges Ferry,Greater Hobart,Greater Hobart
+1214,7173,60106,Sorell - Dodges Ferry,Greater Hobart,Greater Hobart
+1215,7174,60106,Sorell - Dodges Ferry,Greater Hobart,Greater Hobart
+1216,7175,60106,Sorell - Dodges Ferry,Greater Hobart,Greater Hobart
+1217,7176,60106,Sorell - Dodges Ferry,Greater Hobart,Greater Hobart
+1218,7177,60106,Sorell - Dodges Ferry,Greater Hobart,Greater Hobart
