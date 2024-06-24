@@ -32,7 +32,7 @@ average), and also the size of the market in terms of light vehicles on the road
 
 ![image](https://github.com/cslim95/vw_id_targeting/assets/169668063/44e5b87d-3a74-42c7-a3c2-b5ddce83ac37)
 
-A typical intra-city mapping looked like this: 
+A typical intra-city mapping, built in Tableau desktop looked like this: 
 
 ![image](https://github.com/cslim95/vw_id_targeting/assets/169668063/9fda3487-3e6d-4d1d-b7c3-1261f21db820)
 
